@@ -1,0 +1,11 @@
+
+html {
+   min-height: 100%;
+}
+
+body {
+  background-image: -moz-linear-gradient(top, white, #4b90cb);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#59d));
+  background-image: -webkit-linear-gradient(top, white, #59d);
+}
+
