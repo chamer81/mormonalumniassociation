@@ -36,7 +36,7 @@ $bookVar = $books[0];
 
   <tr>
     <td>
-      <a href="http://mormonalumniassociation.org"><img width="988" height="72" src="images/MAABooks-long.png"/></a>
+    <a href="<?= $BASE_URL ?>"><img width="988" height="72" src="images/MAABooks-long.png"/></a>
       <hr/>
     </td>
   </tr>
@@ -49,13 +49,13 @@ $bookVar = $books[0];
         <td width="150" valign="top" class="paddedcell" >
           <table border=0 cols=1 cellspacing=0 width="150">
             <tr>
-              <td valign="top" width="150"><a href="http://mormonalumniassociation.org/recommended.php?book=about"><img src="images/about_button.png"/></a></td>
+              <td valign="top" width="150"><a href="recommended.php?book=about"><img src="images/about_button.png"/></a></td>
             </tr>
             <tr>
-              <td valign="top" width="150"><a href="http://mainstreetplaza.com"><img src="images/mainstreetplaza.png"/></a></td>
+              <td valign="top" width="150"><a href="https://mainstreetplaza.com"><img src="images/mainstreetplaza.png"/></a></td>
             </tr>
             <tr>
-              <td valign="top" width="150"><a href="http://mormonalumniassociation.org/recommended.php"><img src="images/recommended.png"/></a></td>
+              <td valign="top" width="150"><a href="recommended.php"><img src="images/recommended.png"/></a></td>
             </tr>
           </table>
         </td>

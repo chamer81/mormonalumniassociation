@@ -40,7 +40,7 @@ if(isset($_GET['book'])){
 
 <tr>
 <td>
-<a href="http://mormonalumniassociation.org"><img width="988" height="72" src="images/recommended-long.png"/></a>
+<a href="<?= $BASE_URL ?>"><img width="988" height="72" src="images/recommended-long.png"/></a>
 <hr/>
 </td>
 </tr>
