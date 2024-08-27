@@ -8,4 +8,4 @@
 </p>“I didn’t really feel anything,” I whispered to my dad. “Should I go up and tell everyone the truth?”</p>
 </p>I’d been taught all my life to be honest, and my impulse to go up to the pulpit and confess my sin was almost unbearable. I could, in fact, think of nothing more important than correcting the lie I’d told.</p>
 </p>My father, however, knew people better than I did. He knew perfectly well what was appropriate in a Sunday service. He knew what I did not, that there’d been conflict amongst some in the congregation over what kinds of stories were appropriate to tell in church. So while I had no idea what was going through his mind at that moment, I’m sure what he said next was his way of looking out for me.</p>
-</p>“Don’t do that, sweetheart. You wouldn’t want to hurt anyone’s testimony.”</i> <a href="http://mainstreetplaza.com/2012/11/28/hurting-relationships-sophia-l-stones-mormon-diaries/"><b>Read more</b></a></p>
+</p>“Don’t do that, sweetheart. You wouldn’t want to hurt anyone’s testimony.”</i> <a href="https://mainstreetplaza.com/2012/11/28/hurting-relationships-sophia-l-stones-mormon-diaries/"><b>Read more</b></a></p>
