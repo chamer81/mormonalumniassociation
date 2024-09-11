@@ -13,7 +13,7 @@ td.paddedcell { padding-top:10px; padding-bottom:10px; padding-right:10px; paddi
 <?php 
 $book_indices = range(0, 23);
 shuffle($book_indices);
-$books = array("exm", "me", "g4w", "huh", "hb", "bot", "cog", "har", "mft", "ocr", "sus", "tbg", "zfj", "mm", "md", "es", "dmf", "ydk", "lgs", "sr", "fp", "adt", "fe","wwg");
+$books = array("exm", "me", "g4w", "huh", "hb", "bot", "eom", "har", "mft", "ocr", "sus", "tbg", "zfj", "mu", "md", "es", "ifq", "ydk", "rbp", "sr", "fp", "adt", "fe","wwg");
 $book_dir = "books/";
 $main_page = "/main_page.php";
 $sidebar_image = "/sidebar_image.php";

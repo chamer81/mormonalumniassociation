@@ -11,3 +11,7 @@ The live k8s version puts the data files in a volume. The command to update them
 ```
 rsync -avz mormonalumniassociation.org/public rayquaza:/export/data/maa-prod
 ```
+
+The cover images should be named: 
+- cover_sm.png (width 125 pixels)
+- cover_med.png (width 300 pixels)
