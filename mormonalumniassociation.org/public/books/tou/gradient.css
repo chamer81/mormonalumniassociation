@@ -4,8 +4,8 @@ html {
 }
 
 body {
-  background-image: -moz-linear-gradient(top, #f8d6d7, #d2858b);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#fdd), to(#d88));
-  background-image: -webkit-linear-gradient(top, #fdd, #d88);
+  background-image: -moz-linear-gradient(top, #fafccd, #d5c862);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffc), to(#dc6));
+  background-image: -webkit-linear-gradient(top, #ffc, #dc6);
 }
 
