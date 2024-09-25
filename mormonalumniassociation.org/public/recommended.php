@@ -70,35 +70,4 @@ if(isset($_GET['book'])){
 
 </center>
 
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=10931344; 
-var sc_invisible=1; 
-var sc_security="177504fd"; 
-var sc_https=1; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="web statistics"
-href="http://statcounter.com/free-web-stats/"
-target="_blank"><img class="statcounter"
-src="//c.statcounter.com/10931344/0/177504fd/1/" alt="web
-statistics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-
-<!-- Start of StatCounter Code: old version -->
-<!--<script type="text/javascript" language="javascript">
-var sc_project=1346876; 
-var sc_invisible=1; 
-var sc_partition=12; 
-var sc_security="0073260d"; 
-</script>
-
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c13.statcounter.com/counter.php?sc_project=1346876&amp;java=0&amp;security=0073260d&amp;invisible=1" alt="html hit counter" border="0"></a> </noscript> -->
-<!-- End of StatCounter Code -->
-
-
 </body>
