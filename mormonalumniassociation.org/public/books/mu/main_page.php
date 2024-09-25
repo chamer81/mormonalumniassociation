@@ -1,4 +1,4 @@
 <p>
 In these stories of gay Mormons, we see a young LDS man stripping to his Mormon underwear in public. We watch as a virginal 70-year-old finally gives in to temptation. A "secret combination" plots to put gay men into positions of power within the Church. A celibate 38-year-old dates a promiscuous porn reviewer.</p>
-<a href="http://linkhere"><img class="floatleft" width="300" height="464" src="books/mu/cover_med.png"/></a><p>A schizophrenic man accustomed to hearing voices suddenly starts to receive real revelations.</p>
+<a href="https://www.amazon.com/Mormon-Underwear-Johnny-Townsend/dp/B0C3VDNR6M"><img class="floatleft" width="300" height="464" src="books/mu/cover_med.png"/></a><p>A schizophrenic man accustomed to hearing voices suddenly starts to receive real revelations.</p>
 <p>Gay hot tubs, gay bowling leagues, and gay missionaries await, whether you're wearing Mormon underwear or not.</p>

@@ -13,7 +13,7 @@ td.paddedcell { padding-top:10px; padding-bottom:10px; padding-right:10px; paddi
 <?php 
 $book_indices = range(0, 23);
 shuffle($book_indices);
-$books = array("exm", "me", "g4w", "huh", "hb", "bot", "eom", "har", "dmf", "ocr", "sus", "tbg", "zfj", "mu", "md", "es", "ifq", "ydk", "rbp", "sr", "fp", "adt", "fe","wwg");
+$books = array("exm", "me", "g4w", "huh", "hb", "bot", "eom", "har", "dmf", "ocr", "sus", "tbg", "ss", "mu", "md", "es", "ifq", "ydk", "rbp", "sr", "fp", "adt", "fe","wwg");
 $book_dir = "books/";
 $main_page = "/main_page.php";
 $sidebar_image = "/sidebar_image.php";
@@ -40,7 +40,7 @@ if(isset($_GET['book'])){
 
 <tr>
 <td>
-<a href="<?= $BASE_URL ?>"><img width="988" height="72" src="images/recommended-long.png"/></a>
+<a href="<?= $BASE_URL ?>"><img width="988" height="72" src="images/MAABooks-long.png"/></a>
 <hr/>
 </td>
 </tr>
